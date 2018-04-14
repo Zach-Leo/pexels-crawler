@@ -1,0 +1,8 @@
+#http header
+user_agent: 'Mozilla/5.0 AppleWebKit/537.36 Chrome/65.0.3325.181 Safari/537.36'
+#the dir of the downloading file
+download_dir: '/users/haohao/Desktop/pexels/'
+#the content you need
+element: 'cat'
+#the number of file you need
+search_range: 20
