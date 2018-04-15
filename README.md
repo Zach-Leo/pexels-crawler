@@ -26,3 +26,5 @@ Contribution is welcome, feel free to open an issue and fork. Waiting for your p
 [git-url]: http://lmgtfy.com/?q=linux+git+install
 [curl-tar-url]: http://lmgtfy.com/?q=linux+curl+tar+install
 [curl-tar-wget-url]: http://lmgtfy.com/?q=linux+curl+tar+wget+install
+
+[download-latest-url]: https://github.com/Zach-Leo/pexels-crawler.git
