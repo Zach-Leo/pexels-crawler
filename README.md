@@ -1,10 +1,10 @@
 <h1 align="center">Pexels-Crawler</h1>
 <p align="center">Pexels-Crawler is a efficient web crawler to get pictures from the <a href="https://www.pexels.com/">PEXELS</a> . It is totally handcarfted, with love.</p>
-
+[![python](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/source/)
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
 ## Installation
 
-### Get pexels-crawler from GitHub. There are several variants to do it:
+Get pexels-crawler from GitHub. There are several variants to do it:
 
 ### Download [latest master branch][download-latest-url].
 
