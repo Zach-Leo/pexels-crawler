@@ -1,13 +1,12 @@
 <h1 align="center">Pexels-Crawler</h1>
 <p align="center">Pexels-Crawler is a efficient web crawler to get pictures from the <a href="https://www.pexels.com/">PEXELS</a> . It is totally handcarfted, with love.</p>
-
+[![python]] 
+[![license]]
 ## Installation
 
 ### Get pexels-crawler from GitHub. There are several variants to do it:
 
 ### Download [latest master branch][download-latest-url].
-
-### Or, Use git in the terminal
 
    [![git-image]][git-url]
 
@@ -23,19 +22,26 @@ pexels-crawler comes with few configurations.
 
 ```yaml
 
-#http header(for the most of time, you don't need to change it)
+#Http Header (for the most time, you don't need to change it)
 user_agent: 'Mozilla/5.0 AppleWebKit/537.36 Chrome/65.0.3325.181 Safari/537.36'
 
-#the dir of the downloading file
+#Where you want to download to
 download_dir: '/users/haohao/Desktop/pexels/'
 
-#the content you need
+#The content you need
 element: 'cat'
 
-#the number of pages you want to get
+#The number of pages you want to get
 search_range: 20
 
 ```
+
+## Usage
+
+   ```sh
+   $ python crawler.py
+   ```
+
 
 ## Contributing
 
@@ -48,4 +54,11 @@ Contribution is welcome, feel free to open an issue and fork. Waiting for your p
 [curl-tar-url]: http://lmgtfy.com/?q=linux+curl+tar+install
 [curl-tar-wget-url]: http://lmgtfy.com/?q=linux+curl+tar+wget+install
 
+[python]: https://img.shields.io/badge/python-3.6-blue.svg
+[license]: https://img.shields.io/github/license/mashape/apistatus.svg
+
+
+
 [download-latest-url]: https://github.com/Zach-Leo/pexels-crawler/archive/master.zip
+
+
