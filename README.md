@@ -23,13 +23,13 @@ pexels-crawler comes with few configurations.
 ```sh
    $ vim config.yaml
    ```
-   
+
 ```yaml
 
 #Http Header (for the most time, you don't need to change it)
 user_agent: 'Mozilla/5.0 AppleWebKit/537.36 Chrome/65.0.3325.181 Safari/537.36'
 
-#Where you want to download to
+#Where you want to download
 download_dir: '/users/haohao/Desktop/pexels/'
 
 #The content you need
