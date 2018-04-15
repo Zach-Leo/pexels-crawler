@@ -19,3 +19,10 @@
 ## Contributing
 
 Contribution is welcome, feel free to open an issue and fork. Waiting for your pull request.
+
+[git-image]: https://img.shields.io/badge/install%20with%20-git-blue.svg
+[curl-tar-image]: https://img.shields.io/badge/install%20with%20-curl%20%7C%20tar-blue.svg
+[curl-tar-wget-image]: https://img.shields.io/badge/install%20with%20-curl%20%7C%20tar%20%7C%20wget-blue.svg
+[git-url]: http://lmgtfy.com/?q=linux+git+install
+[curl-tar-url]: http://lmgtfy.com/?q=linux+curl+tar+install
+[curl-tar-wget-url]: http://lmgtfy.com/?q=linux+curl+tar+wget+install
