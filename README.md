@@ -20,7 +20,10 @@ Get pexels-crawler from GitHub. There are several variants to do it:
 ## Configuration
 
 pexels-crawler comes with few configurations.
-
+```sh
+   $ vim config.yaml
+   ```
+   
 ```yaml
 
 #Http Header (for the most time, you don't need to change it)
