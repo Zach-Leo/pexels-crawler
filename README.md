@@ -1,7 +1,7 @@
 <h1 align="center">Pexels-Crawler</h1>
 <p align="center">Pexels-Crawler is a efficient web crawler to get pictures from the <a href="https://www.pexels.com/">PEXELS</a> . It is totally handcarfted, with love.</p>
 
-[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/python-3.6-blue.svg)](https://opensource.org/licenses/MIT)
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
 ## Installation
 
