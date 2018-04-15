@@ -3,9 +3,11 @@
 
 ## Installation
 
-### Get pexels-crawler from GitHub:
+### Get pexels-crawler from GitHub. There are several variants to do it:
 
 ### Download [latest master branch][download-latest-url].
+
+### Or, Use git in the terminal
 
    [![git-image]][git-url]
 
@@ -13,8 +15,27 @@
    $ git clone https://github.com/Zach-Leo/pexels-crawler
    ```
 
-   Clone command will give you the **whole repository**. And in any time you can switch to any tagged release.\
+   Clone command will give you the **whole repository**. 
 
+## Configuration
+
+pexels-crawler comes with few configurations.
+
+```yaml
+
+#http header(for the most of time, you don't need to change it)
+user_agent: 'Mozilla/5.0 AppleWebKit/537.36 Chrome/65.0.3325.181 Safari/537.36'
+
+#the dir of the downloading file
+download_dir: '/users/haohao/Desktop/pexels/'
+
+#the content you need
+element: 'cat'
+
+#the number of pages you want to get
+search_range: 20
+
+```
 
 ## Contributing
 
@@ -27,4 +48,4 @@ Contribution is welcome, feel free to open an issue and fork. Waiting for your p
 [curl-tar-url]: http://lmgtfy.com/?q=linux+curl+tar+install
 [curl-tar-wget-url]: http://lmgtfy.com/?q=linux+curl+tar+wget+install
 
-[download-latest-url]: https://github.com/Zach-Leo/pexels-crawler.git
+[download-latest-url]: https://github.com/Zach-Leo/pexels-crawler/archive/master.zip
