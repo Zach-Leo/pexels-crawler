@@ -3,6 +3,9 @@
 
 [![Python](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/community/)
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
+## NOTICE:
+This project is deprecated, PEXELS provides convenient api for user to search pictures. Please refer to their [official website](https://www.pexels.com/api) for more information.
+
 ## Installation
 
 Get pexels-crawler from GitHub. There are several variants to do it:
